@@ -1,11 +1,8 @@
-AIM
-In this experiment, you will interface a Buzzer with the ATmega2560 microcontroller.
-Buzzer is already interfaced and present on Firebird V robot.
-You are provided with a skeleton code of Buzzer interfacing program.
+AIM:  
+In this experiment, we interfaced the Bar-graph LEDs and the Interrupt Switch already present on Firebird V robot.  
+The aim of this experiment is to get us familiar with the configuring and interfacing of Input and Output devices.
 
-The program is ideally expected to configure the Buzzer as output device and turn it ON and OFF at an interval of 1 second.
-This should repeat itself indefinitely.
+The task is to toggle the status of 2 Bar-graph LEDs depending on whether the Interrupt Switch is pressed or released.
 
-The program is provided in a project folder.
-But, the program contains few errors which you have to find and debug.
-Resolve the errors and build the project.
+The program is provided in a project folder.  
+But, the program contains few incomplete functions which would have to be completed as per the instructions present in the comments.
